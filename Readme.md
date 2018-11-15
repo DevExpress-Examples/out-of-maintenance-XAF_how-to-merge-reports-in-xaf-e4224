@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportCustomController.cs](./CS/Solution2.Module.Win/Controllers/ReportCustomController.cs) (VB: [ReportCustomController.vb](./VB/Solution2.Module.Win/Controllers/ReportCustomController.vb))
+<!-- default file list end -->
 # How to merge reports in XAF
 
 
